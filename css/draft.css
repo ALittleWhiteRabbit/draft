@@ -1,0 +1,488 @@
+html {
+    font-family: "Montserrat";
+}
+* {
+    box-sizing: border-box;
+}
+body {
+    width: 960px;
+    padding: 0;
+    margin: 0 auto;
+}
+.div1 {
+    background: url("Background.png");
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    border: 0.5px solid white;
+    width: 100%;
+    height: 594px;
+}
+.hello {
+    font-size: 37.2px;
+    color: white;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 50px;
+    font-weight: lighter;
+}
+.China {
+    font-size: 12px;
+    color: rgba(255, 255, 255, 0.702);
+    text-align: center;
+    margin-bottom: 50px;
+    line-height: 1.75;
+}
+.sign {
+    border: 1px solid rgba(255, 255, 255, 0.302);
+    border-radius: 2px;
+    width: 581px;
+    height: 169px;
+    margin: 0 auto;
+}  
+.create {
+    font-size: 9.6px;
+    color: white;
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}  
+.it {
+    font-size: 7.2px;
+    color: rgba(255, 255, 255, 0.302);
+    text-transform: uppercase;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.form {
+    width: 550px;
+    padding: 0;
+    margin: 0 auto;
+}
+.form input {
+    height: 40px;
+    line-height: 40px;
+}
+.email, .password {
+    background-color: transparent;
+    border: 0.5px solid rgba(255, 255, 255, 0.302);
+    margin: 0 10px;
+    border-radius: 2px;
+    width: 200px;
+    font-size: 8.4px;
+}
+.email {
+    color: white;
+}
+.password {
+    color: rgba(255, 255, 255, 0.302);
+}
+.button_a {
+    height: 40px;
+    line-height: 40px;
+    background-color: white;
+    text-align: center;
+    margin-left: 10px;
+    border: 0.5px solid gray;
+    border-radius: 2px;
+    font-size: 7.2px;
+    width: 80px;
+}
+.div2 {
+    width: 100%;
+    height: 426px;
+}
+.boatloads {
+    font-size: 8.4px;
+    text-transform: uppercase;
+    line-height: 2;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+.ready {
+    font-size: 25.2px;
+    line-height: 1.2;
+    text-align: center;
+    margin-bottom: 50px;
+}
+.display1 {
+    height: 110px;
+    width: 750px;
+    margin: 0 auto;
+}
+.display2 {
+    display: inline-block;
+    width: 330px;
+    margin: 10px 20px;
+    height: 90px;
+    vertical-align: top;
+}
+.img {
+    float: left;
+    clear: both;
+    width: 50px;
+    height: 90px;
+}
+.img img{
+    float: right;
+    clear: both;
+}
+.content1 {
+    font-size: 12px;
+    color: rgb(20, 20, 20);
+    line-height: 1.6;
+    font-weight: bold;
+    padding-left: 60px;
+    margin-bottom: 10px;
+}
+.content2 {
+    font-size: 9.6px;
+    color: rgba(20, 20, 20, 0.702);
+    line-height: 1.625;
+    padding-left: 60px;
+}
+.div3 {
+    background: url("Background1.png");
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    border: 0.5px solid white;
+    width: 100%;
+    height: 480px;
+}
+.supportive {
+    font-size: 25.2px;
+    color: rgba(255, 255, 255, 0.702);
+    line-height: 1.24;
+    text-align: left;
+    width: 245px;
+    margin-left: 190px;
+    margin-top: 110px;
+}
+.china_will {
+    font-size: 10.8px;
+    color: rgba(255, 255, 255, 0.302);
+    line-height: 1.2;
+    text-align: left;
+    width: 250px;
+    margin-left: 190px;
+    margin-top: 20px;
+}
+.button_b {
+    margin-left: 190px;
+    margin-top: 40px;
+}
+.button1 {
+    width: 160px;
+    background-color: white;
+    border-radius: 2px;
+    height: 40px;
+    line-height: 40px;
+    color: rgb(20, 20, 20);
+    text-transform: uppercase;
+    margin-right: 10px;
+    border: 0.5px solid gray;
+    padding: 0;
+    text-align: center;
+    font-size: 8px;
+}
+.button2 {
+    width: 160px;
+    background-color: transparent;
+    border-radius: 2px;
+    height: 40px;
+    line-height: 40px;
+    color: white;
+    text-transform: uppercase;
+    border: 1px solid rgba(255, 255, 255, 0.302);
+    padding: 0;
+    text-align: center;
+    font-size: 8px;
+}
+.div4 {
+    width: 100%;
+    height: 348px;
+    border-bottom: 0.5px solid rgba(20, 20, 20,0.302);
+}
+.try {
+    font-size: 25.2px;
+    color: rgb(20, 20, 20);
+    line-height: 1.238;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.table {
+    width: 720px;
+    margin: 0 auto;
+    display: flex;
+}
+.table1 {
+    width: 210px;
+    margin: 0 20px;
+}
+.figure {
+    margin-bottom: 10px;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+}
+.figure img {
+    height: 20px;
+}
+.txt {
+    font-size: 8px;
+    color: rgba(20, 20, 20, 0.702);
+    line-height: 1.625;
+    text-align: center;
+}
+.div5 {
+    width: 100%;
+    border-bottom: 0.5px solid rgba(20, 20, 20,0.302);
+}
+.frame1 {
+    height: 210px;
+    width: 630px;
+    margin: 60px auto 40px auto;
+}
+.frame2 {
+    height: 210px;
+    width: 630px;
+    margin: 40px auto 60px auto;
+}
+.photo1 {
+    float: left;
+    clear: both;
+}
+.photo2 {
+    float: right;
+    clear: both;
+}
+.txtframe1 {
+    padding-left: 400px;
+    padding-top: 30px;
+}
+.txtframe2 {
+    padding-top: 30px;
+    padding-right: 390px;
+}
+.learn, .choose {
+    font-size: 14px;
+    color: rgb(20, 20, 20);
+    line-height: 1.6;
+    text-align: left;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.txt1, .txt2 {
+    font-size: 7.2px;
+    color: rgba(20, 20, 20, 0.702);
+    line-height: 1.5;
+    text-align: left;
+}
+.txt2 {
+    width: 235px;
+}
+.div6 {
+    width: 100%;
+    border-bottom: 0.5px solid rgba(20, 20, 20,0.302);
+}
+.our_a {
+    font-size: 25.2px;
+    color: rgb(20, 20, 20);
+    line-height: 1.238;
+    text-align: center;
+    margin-top: 60px;
+}
+.our_u {
+    font-size: 10.8px;
+    color: rgba(20, 20, 20, 0.702);
+    line-height: 1.556;
+    text-align: center;
+    width: 470px;
+    margin: 20px auto;
+}
+.picture {
+    width: 610px;
+    margin: 0 auto 60px auto;
+    display: flex;
+}
+.section1, .section2, .section3, .section4 {
+    width: 282px;
+    margin: 20px 10px;
+}
+.section1 {
+    background: url("Userpic 1.png");
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    height: 204px;
+    position: relative;
+}
+.ethan {
+    font-size: 14px;
+    padding-top: 60px;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+}
+.senior {
+    font-size: 8px;
+    font-weight: lighter;
+    padding-top: 10px;
+    color: rgba(255, 255, 255, 0.4);
+    text-align: center;
+    text-transform: uppercase;
+}
+.icon {
+    padding-top: 10px;
+    text-align: center;
+}
+.icon img {
+    width: 28px;
+    margin: 0 10px;
+}
+.pointer {
+    position: absolute;
+    right: 40px;
+    bottom: 60px;
+}
+.div7 {
+    width: 100%;
+}
+.flex_2 {
+    display: flex;
+    width: 640px;
+    margin: 50px auto;
+}
+.border {
+    width: 300px;
+    border: 0.5px solid rgba(20, 20, 20,0.302);
+    margin-right: 20px;
+    border-radius: 5px;
+    height: 380px;
+}
+.border p {
+    font-size: 9.6px;
+    color: rgb(20, 20, 20);
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+    margin: 30px auto;
+}
+.e-mail, .subject {
+    border: 0.5px solid rgba(20, 20, 20,0.302);
+    width: 240px;
+    margin: 0 30px 10px 30px;
+    background: transparent;
+    color: rgba(20, 20, 20,0.302);
+    line-height: 3;
+    border-radius: 5px;
+    font-size: 12px;
+}
+.message {
+    height: 100px;
+    border: 0.5px solid rgba(20, 20, 20,0.302);
+    width: 240px;
+    margin: 0 30px 10px 30px;
+    background: transparent;
+    color: rgba(20, 20, 20,0.302);
+    border-radius: 5px;
+    font-size: 12px;
+    line-height: 3;
+}
+.send {
+    width: 240px;
+    background: black;
+    color: white;
+    margin: 0 30px 10px 30px;
+    text-align: center;
+    font-size: 12px;
+    line-height: 3;
+    border: 0.5px solid rgba(20, 20, 20,0.302);
+    border-radius: 5px;
+}
+.non_border {
+    width: 300px;
+    margin-left: 50px;
+}
+.contacts {
+    font-size: 25.2px;
+    color: rgb(20, 20, 20);
+    text-align: left;
+    line-height: 1.238;
+    font-weight: bold;
+    margin-top: 60px;
+}
+.make {
+    font-size: 9.6px;
+    color: rgba(20, 20, 20, 0.702);
+    line-height: 1.625;
+    width: 265px;
+    text-align: left;
+    margin-top: 20px;
+}
+.information1 img, .information2 img, .information3 img {
+    position: absolute;
+    left: 0;
+    top: 6px;
+}
+.information1, .information2, .information3 {
+    font-size: 9.6px;
+    color: rgb(20, 20, 20);
+    line-height: 1.625;
+    text-align: left;
+    font-weight: bold;
+    vertical-align: top;
+    position: relative;
+} 
+.information1 {
+    margin-top: 40px;
+}
+.information2 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.space {
+    padding-left: 25px;
+    padding-top: 0;
+}
+.div8 {
+    width: 100%;
+    border:0.5px solid white;
+    background: black;
+}
+.footer {
+    width: 700px;
+    margin: 60px auto 70px auto;
+    display: flex;
+}
+.title {
+    font-weight: bold;
+    font-size: 8.4px;
+    color: white;
+    text-transform: uppercase;
+    line-height: 2;
+    text-align: left;
+}
+.word {
+    font-size: 9.6px;
+    color: rgba(255, 255, 255, 0.302);
+    line-height: 2.875;
+    text-align: left;
+}
+.word1 {
+    font-size: 10.8px;
+    color: rgba(255, 255, 255, 0.4);
+    line-height: 1.556;
+    text-align: left;
+    margin-top: 5px;
+}
+.grow {
+    flex: 1;
+}
+.buttons {
+    margin-top: 20px;
+}
+.buttons img {
+    width: 133.2px;
+}
