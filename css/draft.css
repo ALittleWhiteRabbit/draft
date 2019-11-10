@@ -26,7 +26,7 @@ body {
     font-weight: lighter;
 }
 .China {
-    font-size: 12px;
+    font-size: 14px;
     color: rgba(255, 255, 255, 0.702);
     text-align: center;
     margin-bottom: 50px;
@@ -40,7 +40,7 @@ body {
     margin: 0 auto;
 }  
 .create {
-    font-size: 9.6px;
+    font-size: 12px;
     color: white;
     text-transform: uppercase;
     text-align: center;
@@ -48,7 +48,7 @@ body {
     margin-bottom: 10px;
 }  
 .it {
-    font-size: 7.2px;
+    font-size: 9.6px;
     color: rgba(255, 255, 255, 0.302);
     text-transform: uppercase;
     text-align: center;
@@ -69,7 +69,7 @@ body {
     margin: 0 10px;
     border-radius: 2px;
     width: 200px;
-    font-size: 8.4px;
+    font-size: 12px;
 }
 .email {
     color: white;
@@ -85,7 +85,7 @@ body {
     margin-left: 10px;
     border: 0.5px solid gray;
     border-radius: 2px;
-    font-size: 7.2px;
+    font-size: 12px;
     width: 80px;
 }
 .div2 {
@@ -93,7 +93,7 @@ body {
     height: 426px;
 }
 .boatloads {
-    font-size: 8.4px;
+    font-size: 12px;
     text-transform: uppercase;
     line-height: 2;
     text-align: center;
@@ -137,7 +137,7 @@ body {
     margin-bottom: 10px;
 }
 .content2 {
-    font-size: 9.6px;
+    font-size: 12px;
     color: rgba(20, 20, 20, 0.702);
     line-height: 1.625;
     padding-left: 60px;
@@ -160,7 +160,7 @@ body {
     margin-top: 110px;
 }
 .china_will {
-    font-size: 10.8px;
+    font-size: 12px;
     color: rgba(255, 255, 255, 0.302);
     line-height: 1.2;
     text-align: left;
@@ -184,7 +184,7 @@ body {
     border: 0.5px solid gray;
     padding: 0;
     text-align: center;
-    font-size: 8px;
+    font-size: 9.6px;
 }
 .button2 {
     width: 160px;
@@ -197,7 +197,7 @@ body {
     border: 1px solid rgba(255, 255, 255, 0.302);
     padding: 0;
     text-align: center;
-    font-size: 8px;
+    font-size: 9.6px;
 }
 .div4 {
     width: 100%;
@@ -231,7 +231,7 @@ body {
     height: 20px;
 }
 .txt {
-    font-size: 8px;
+    font-size: 12px;
     color: rgba(20, 20, 20, 0.702);
     line-height: 1.625;
     text-align: center;
@@ -275,7 +275,7 @@ body {
     margin-bottom: 10px;
 }
 .txt1, .txt2 {
-    font-size: 7.2px;
+    font-size: 12px;
     color: rgba(20, 20, 20, 0.702);
     line-height: 1.5;
     text-align: left;
@@ -295,7 +295,7 @@ body {
     margin-top: 60px;
 }
 .our_u {
-    font-size: 10.8px;
+    font-size: 12px;
     color: rgba(20, 20, 20, 0.702);
     line-height: 1.556;
     text-align: center;
@@ -326,7 +326,7 @@ body {
     font-weight: bold;
 }
 .senior {
-    font-size: 8px;
+    font-size: 12px;
     font-weight: lighter;
     padding-top: 10px;
     color: rgba(255, 255, 255, 0.4);
@@ -362,7 +362,7 @@ body {
     height: 380px;
 }
 .border p {
-    font-size: 9.6px;
+    font-size: 12px;
     color: rgb(20, 20, 20);
     font-weight: bold;
     text-transform: uppercase;
@@ -414,7 +414,7 @@ body {
     margin-top: 60px;
 }
 .make {
-    font-size: 9.6px;
+    font-size: 12px;
     color: rgba(20, 20, 20, 0.702);
     line-height: 1.625;
     width: 265px;
@@ -427,7 +427,7 @@ body {
     top: 6px;
 }
 .information1, .information2, .information3 {
-    font-size: 9.6px;
+    font-size: 12px;
     color: rgb(20, 20, 20);
     line-height: 1.625;
     text-align: left;
@@ -458,20 +458,20 @@ body {
 }
 .title {
     font-weight: bold;
-    font-size: 8.4px;
+    font-size: 12px;
     color: white;
     text-transform: uppercase;
     line-height: 2;
     text-align: left;
 }
 .word {
-    font-size: 9.6px;
+    font-size: 12px;
     color: rgba(255, 255, 255, 0.302);
     line-height: 2.875;
     text-align: left;
 }
 .word1 {
-    font-size: 10.8px;
+    font-size: 12px;
     color: rgba(255, 255, 255, 0.4);
     line-height: 1.556;
     text-align: left;
